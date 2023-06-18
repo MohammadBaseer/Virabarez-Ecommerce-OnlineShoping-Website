@@ -3,12 +3,16 @@ Ecoomerce Website
 
 
 Dashboard 
-user: Admin
+<br/>
+user: Admin 
+<br/>
 Pass: Admin@123
-
+<br/><br/>
 User:seller1
-passLSeller
-
-User:seller2
-passLSeller
+<br/>
+pass: Seller@123
+<br/><br/>
+User: seller2
+<br/>
+pass: Seller@123
 
